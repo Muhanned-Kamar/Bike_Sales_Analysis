@@ -4,3 +4,7 @@ Analyzed bike sales using Excel.
 
 
 ![](Images/Bike_Sales_Dashboard.PNG)
+
+
+
+![](Images/Pivot_Tables.PNG)
